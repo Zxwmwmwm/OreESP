@@ -1,0 +1,12 @@
+{
+  "format_version": 1,
+  "type": "preload-native",
+  "name": "Ore ESP",
+  "version": "1.0.0hf2",
+  "author": "Zxwmwmwm",
+  "entry": "liboreesp.so",
+  "icon": "icon.png",
+  "minecraft_versions": [
+    "1.26.*"
+  ]
+}
